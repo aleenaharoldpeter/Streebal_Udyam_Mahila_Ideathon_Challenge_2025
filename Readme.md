@@ -49,7 +49,7 @@ This repository contains the submission materials for the **Udyam Mahila Ideatho
 
 1. **Download or Clone the Repository**
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/aleenaharoldpeter/Streebal_Udyam_Mahila_Ideathon_Challenge_2025
    ```
 2. **Open the HTML Files Locally**
 
