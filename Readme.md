@@ -3,7 +3,12 @@
 This repository contains the submission materials for the **Udyam Mahila Ideathon Challenge**. The project is focused on empowering women entrepreneurs through a comprehensive skill development program, addressing critical challenges such as limited job opportunities, financial literacy, and inadequate business education.
 
 ---
+## Prototype 
+[Click here to view the registration page](https://aleenaharoldpeter.github.io/Streebal_Udyam_Mahila_Ideathon_Challenge_2025/Streebal.html)
 
+[Click here to view the content page](https://aleenaharoldpeter.github.io/Streebal_Udyam_Mahila_Ideathon_Challenge_2025/OnlineClassPrototype.html)
+
+---
 ## Overview
 
 **StreeBal – Women Strength** is a holistic training initiative designed to empower women in rural and semi-urban areas. The program combines business education, digital literacy, and soft skills development with practical, community-based mentorship.
